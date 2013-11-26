@@ -13,13 +13,7 @@ Researchers continued bird observations from 2009 through 2011.
 
 ### Statistics
 
-The objective is to find differences in the occupancy 
-
-
-
-
-
-
+The objective is to find differences in the occupancy
 
 
 
@@ -28,8 +22,6 @@ The objective is to find differences in the occupancy
 Brittany Mosher
 
 Vicki Saab
-
-
 
 
 ### Citations
